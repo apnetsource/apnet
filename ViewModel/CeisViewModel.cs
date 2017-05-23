@@ -118,7 +118,7 @@ namespace FAMA.AP.ViewModel
 
                 //FAMA.AP.Model.Profile currentQuery = (FAMA.AP.Model.Profile)Queries.CurrentItem;
                 //currentQuery.idProfile = User.IdProfile;
-                //currentQuery.ProfileName = User.ProfileName;
+                //currentQuery.ProfileName = User.ProfileName; 
 
             }
         }
