@@ -10,7 +10,9 @@ namespace FAMA.AP.ViewModel
 {
     public class UserViewModel: ViewModelBase
     {
-        private User _user;
+        private User _user; /// <summary>
+        /// 
+        /// </summary>
         private ObservableCollection<User> _users;
         IList<FAMA.AP.Model.Profile> availableQueries = new List<FAMA.AP.Model.Profile>();
 
